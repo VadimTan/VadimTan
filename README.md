@@ -7,7 +7,7 @@ Hi there, I'm Vadim 👋  <br><br>
 ---
 
 ## 🚀 Tech Stack  
-![Nuxt.js](https://img.shields.io/badge/Nuxt-3-green?style=for-the-badge&logo=nuxtdotjs)  
+![Nuxt.js](https://img.shields.io/badge/Nuxt-4-green?style=for-the-badge&logo=nuxtdotjs)  
 ![Vue.js](https://img.shields.io/badge/Vue-3-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
